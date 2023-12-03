@@ -4,9 +4,9 @@ Olá, sou Luiz Fellipe, um entusiasta da tecnologia. Atualmente, estou iniciando
 
 ## 💻 Projetos em Destaque
 
-- **[Pacman](https://github.com/Ars-Lupin/PacMan)** 
-- **[Pacman 2.0](https://github.com/Ars-Lupin/PacMan-2.0)**
-- **[Estacionamento inteligente](https://github.com/Ars-Lupin/Estacionamento-Inteligente)** 
+- **[Pacman](https://github.com/Ars-Lupin/PacMan) 🎮👻** 
+- **[Pacman 2.0](https://github.com/Ars-Lupin/PacMan-2.0)🍒🕹️**
+- **[Estacionamento inteligente](https://github.com/Ars-Lupin/Estacionamento-Inteligente)🚗🚧** 
 
 ## 🚀 Habilidades
 - **Dominio do pacote office** 
