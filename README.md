@@ -29,6 +29,10 @@ Olá, sou Luiz Fellipe, um entusiasta da tecnologia. Atualmente, estou iniciando
   
 </div>
 
+ ##
+
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Ars-Lupin&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/> <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ars-Lupin&layout=compact&langs_count=7&theme=midnight-purple"/>
+
 Sinta-se à vontade para explorar meus repositórios e não hesite em entrar em contato. Vamos construir algo incrível juntos! 🚀
 
  
