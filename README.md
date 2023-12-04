@@ -1,7 +1,7 @@
 
 ![Ars-Lupin](database/banner.gif)
 
-# Sobre mim 👋
+##👋 Sobre mim
 
 Olá bem-vindo ao meu perfil!, sou Luiz Fellipe, um entusiasta da tecnologia. Atualmente, estou iniciando minha jornada pela programação, cursando o curso de engenharia da computação na UFES.
 
