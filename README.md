@@ -35,6 +35,12 @@ Olá, sou Luiz Fellipe, um entusiasta da tecnologia. Atualmente, estou iniciando
 
 Sinta-se à vontade para explorar meus repositórios e não hesite em entrar em contato. Vamos construir algo incrível juntos! 🚀
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ars-Lupin/Ars-Lupin/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ars-Lupin/Ars-Lupin/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ars-Lupin/Ars-Lupin/output/github-contribution-grid-snake.svg">
+</picture>
+
  
 
 
