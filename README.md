@@ -1,3 +1,6 @@
+
+![Ars-Lupin](database/banner.gif)
+
 # Bem-vindo ao meu perfil! 👋
 
 Olá, sou Luiz Fellipe, um entusiasta da tecnologia. Atualmente, estou iniciando minha jornada pela programação.
