@@ -13,7 +13,7 @@ Olá bem-vindo ao meu perfil!, sou Luiz Fellipe, um entusiasta da tecnologia. At
 
 ## 🚀 Habilidades
 - **Dominio do pacote office** 
-- **Linguagens de Programação: C, C++, Macros** 
+- **Linguagens de Programação: C, C++, Macros, Java, Python, VHDL** 
 <div style="display: inline_block"><br>
   <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
