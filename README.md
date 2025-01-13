@@ -10,7 +10,8 @@ Olá bem-vindo ao meu perfil!, sou Luiz Fellipe, um entusiasta da tecnologia. At
 - **[Pacman](https://github.com/Ars-Lupin/PacMan) 🎮👻** 
 - **[Pacman 2.0](https://github.com/Ars-Lupin/PacMan-2.0)🍒🕹️**
 - **[Estacionamento inteligente](https://github.com/Ars-Lupin/Estacionamento-Inteligente)🚗🚧**
-- **[Olimpius - Jogo RPG](https://github.com/Ars-Lupin/Olimpius-pygame)🏛️🔱** 
+- **[Olimpius - Jogo RPG](https://github.com/Ars-Lupin/Olimpius-pygame)🏛️🔱**
+- **[City Search](https://github.com/Ars-Lupin/City-Search)📍🗺️**
 
 ## 🚀 Habilidades
 - **Dominio do pacote office** 
