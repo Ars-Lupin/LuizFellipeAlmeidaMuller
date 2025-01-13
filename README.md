@@ -9,7 +9,8 @@ Olá bem-vindo ao meu perfil!, sou Luiz Fellipe, um entusiasta da tecnologia. At
 
 - **[Pacman](https://github.com/Ars-Lupin/PacMan) 🎮👻** 
 - **[Pacman 2.0](https://github.com/Ars-Lupin/PacMan-2.0)🍒🕹️**
-- **[Estacionamento inteligente](https://github.com/Ars-Lupin/Estacionamento-Inteligente)🚗🚧** 
+- **[Estacionamento inteligente](https://github.com/Ars-Lupin/Estacionamento-Inteligente)🚗🚧**
+- **[Olimpius - Jogo RPG](https://github.com/Ars-Lupin/Olimpius-pygame)🏛️🔱** 
 
 ## 🚀 Habilidades
 - **Dominio do pacote office** 
@@ -17,7 +18,9 @@ Olá bem-vindo ao meu perfil!, sou Luiz Fellipe, um entusiasta da tecnologia. At
 <div style="display: inline_block"><br>
   <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  
+  <img align="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img align="center" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+
   ##
 
 ## 📫 Como Entrar em Contato
