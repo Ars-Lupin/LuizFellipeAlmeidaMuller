@@ -13,6 +13,8 @@ Olá bem-vindo ao meu perfil!, sou Luiz Fellipe, um entusiasta da tecnologia. At
 - **[Olimpius - Jogo RPG](https://github.com/Ars-Lupin/Olimpius-pygame)🏛️🔱**
 - **[City Search](https://github.com/Ars-Lupin/City-Search)📍🗺️**
 - **[Indexador e Buscador - Tabela Hash e Árvore binária](https://github.com/Ars-Lupin/Source-Index)🔎☰**
+- **[Estoque Digital para igrejas](https://github.com/Ars-Lupin/estoque_web)⛪🗂️**
+- **[Gerador de QrCode](https://github.com/Ars-Lupin/estoque_web)📱🔳**
 
 ## 🚀 Habilidades
 - **Dominio do pacote office** 
